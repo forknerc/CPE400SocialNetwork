@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+	<info>
+		<userId>fork</userId>
+		<name>Chris Forkner</name>
+		<city>Reno</city>
+		<languages>English;Dutch</languages>
+		<time>10/23/2013 1:00pm</time>
+	</info>
+	<work-education>
+		<employer>University of Nevada, Reno</employer>
+		<college>University of Nevada, Reno</college>
+		<gradSchool>N/A</gradSchool>
+	</work-education>
+	<interests>
+		<books>Bursts: The Hidden Patterns Behind Everything We Do;Six Degrees: The Science of a Connected Age;Toward a Global Civilization of Love and Tolerance</books>
+		<music>Sami Yusuf;Maher Zain;Baris Manco;Sivan Perwer</music>
+		<movies>Shawshank Redemption;Memento;Ice Age;Lord of the Rings;Heat</movies>
+		<tvs>Friends;The Simpsons;Battlestar Galactica</tvs>
+	</interests>
+</profile>
